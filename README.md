@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.clickpost.ai/hubfs/featured%20images/Updated%20blog%20banner%20images%20Mar%2022/Shipping-API-Integration-Tracking-for-eCommerce.webp" width="50%">
+  <img src="https://www.clickpost.ai/hubfs/featured%20images/Updated%20blog%20banner%20images%20Mar%2022/Shipping-API-Integration-Tracking-for-eCommerce.webp" width="70%">
   <h1 style="border-bottom:none">API Completa de Delivery</h1>
   <p>Author: José Ricardo</p>
   
