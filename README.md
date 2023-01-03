@@ -11,7 +11,7 @@
   
   <br>
   <br>
-  <p>API de Delivery</p>
+  <p>Api criada a partir do curso que estou terminando de Especialista Spring Rest da Escola Algaworks.</p>
   <br>
   <div align="justify">  
     
