@@ -14,6 +14,10 @@
   <p>API de Delivery</p>
   <br>
   <div align="justify">
+    
+    ![modelo-conceitual](https://user-images.githubusercontent.com/56279938/210287039-96d0ac15-d025-4647-83d0-ca8c101e1857.png)
+    
+    
   <h3>Tecnologias:</h3>
   
    + MySQL;
@@ -28,7 +32,7 @@
    + Validações;
    + Rodar Aplicação comando mvn spring-boot:run
    
-   ![modelo-conceitual](https://user-images.githubusercontent.com/56279938/210287039-96d0ac15-d025-4647-83d0-ca8c101e1857.png)
+   
 
 
   </div>
