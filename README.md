@@ -27,6 +27,9 @@
    + Flyway;
    + Validações;
    + Rodar Aplicação comando mvn spring-boot:run
+   
+   ![modelo-conceitual](https://user-images.githubusercontent.com/56279938/210287039-96d0ac15-d025-4647-83d0-ca8c101e1857.png)
+
 
   </div>
 </div>
