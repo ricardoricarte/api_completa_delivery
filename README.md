@@ -29,9 +29,8 @@
    + Validações;
    + Rodar Aplicação comando mvn spring-boot:run
    
-   <div align="center">
-  <img src=![modelo-conceitual](https://user-images.githubusercontent.com/56279938/210287183-4d4ed374-7c08-4b7e-a5de-2c5072c04d7c.png)
-     width="100%">
+
+![modelo-conceitual](https://user-images.githubusercontent.com/56279938/210287216-0695f6f1-aab1-4978-be85-9f8797422d4b.png)
 
 
   </div>
